@@ -52,12 +52,12 @@
         "SUPPORT": {
             "description": "fill with your bot support group, please fill valid username",
             "required": false,
-            "value": "TheSupportChat"
+            "value": "Mr_DevOp"
         },
         "UPDATE": {
             "description": "fill with your bot update channel, please fill valid username",
             "required": false,
-            "value": "TheUpdatesChannel"
+            "value": "FallenAngelNews"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
